@@ -1,1 +1,1 @@
-# fastlinux | Enhance your Linux experiencec
+# fastlinux | Enhance your Linux experience
